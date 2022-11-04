@@ -1,8 +1,8 @@
 ## Hello There!! Vitória Amorim
 <div align="center">
-  <a href="https://github.com/VitoriaAmorim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaAmorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaAmorim&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Vitoria_Amorim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoria_Amorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria_Amorim&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,6 +21,6 @@
   
   
  
-  ![Snake animation](https://github.com/VitoriaAmorim/VitoriaAmorim/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Vitoria_Amorim/Vitoria_Amorim/blob/output/github-contribution-grid-snake.svg)
  
 </div>
